@@ -1,2 +1,5 @@
-package homework31.Adapter.interfaces;public interface NewAnimal {
+package homework31.Adapter.interfaces;
+
+public interface NewAnimal {
+    String animalSound();
 }

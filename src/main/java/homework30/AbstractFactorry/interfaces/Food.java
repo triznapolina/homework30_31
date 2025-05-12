@@ -1,2 +1,5 @@
-package homework30.AbstractFactorry.interfaces;public interface Food {
+package homework30.AbstractFactorry.interfaces;
+
+public interface Food {
+    String getFoodType();
 }

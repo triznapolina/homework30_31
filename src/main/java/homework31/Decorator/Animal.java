@@ -1,2 +1,6 @@
-package homework31.Decorator;public class Animal {
+package homework31.Decorator;
+
+public interface Animal {
+    String describe();
+
 }

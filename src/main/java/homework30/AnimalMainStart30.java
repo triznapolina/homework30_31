@@ -13,7 +13,7 @@ import homework30.Prototype.DogPrototype;
 import homework30.Proxy.AnimalProxy;
 import homework30.Singleton.AnimalSingleton;
 
-public class AnimalMainStart {
+public class AnimalMainStart30 {
 
     public static void main(String[] args) {
 

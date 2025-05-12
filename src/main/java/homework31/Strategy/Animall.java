@@ -1,9 +1,9 @@
 package homework31.Strategy;
 
-public class Animal {
+public class Animall {
     private AnimalMovementStrategy movementStrategy;
 
-    public Animal(AnimalMovementStrategy movementStrategy) {
+    public Animall(AnimalMovementStrategy movementStrategy) {
         this.movementStrategy = movementStrategy;
     }
 

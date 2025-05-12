@@ -3,12 +3,12 @@ package homework31.Observer;
 import java.util.ArrayList;
 import java.util.List;
 
-class Animal implements AnimalObservable {
+public class AnimalObject implements AnimalObservable {
     private String name;
     private String event;
     private List<AnimalObserver> observers = new ArrayList<>();
 
-    public Animal(String name) {
+    public AnimalObject(String name) {
         this.name = name;
     }
 

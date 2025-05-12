@@ -1,2 +1,7 @@
-package homework30.AbstractFactorry.interfaces;public interface AnimalFactory {
+package homework30.AbstractFactorry.interfaces;
+
+public interface AnimalFactory {
+    Animal createAnimal();
+    Food createFood();
 }
+
